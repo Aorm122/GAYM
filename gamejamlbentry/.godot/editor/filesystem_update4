@@ -1,0 +1,13 @@
+res://Scenes/main.tscn
+res://Character/Player.tscn
+res://Scenes/checkpoint.tscn
+res://Enemy/spirit_projectile.tscn
+res://Scenes/player_spawn.tscn
+res://Scenes/minimapBetter.tscn
+res://Scenes/YouDIEDMOTHERFUCKA.tscn
+res://crate.gd
+res://crate.tscn
+res://Scenes/Hitbox.gd
+res://Character/player.gd
+res://main_menu.tscn
+res://Scenes/sword.tscn
